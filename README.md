@@ -12,6 +12,7 @@
 > * [Redux Saga](https://redux-saga.js.org/)
 > * [Redux Form](https://redux-form.com/8.3.0/)
 > * [Typesafe-actions](https://github.com/piotrwitek/typesafe-actions)
+> * [Material-ui](https://material-ui.com/)
 > * [Axios](https://github.com/axios/axios)
 > * [Lodash](https://lodash.com/)
 > * [Gh-pages](https://github.com/gitname/react-gh-pages)
