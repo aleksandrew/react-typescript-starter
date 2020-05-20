@@ -1,7 +1,7 @@
 <h1>Custom react typescript starter</h1>
 <h2> with pre installed librarys <h2>
   
-  <p> from [react typescript starter](https://create-react-app.dev/docs/adding-typescript/) </p>
+  <p>from <a href="https://create-react-app.dev/docs/adding-typescript/">react typescript starter</a></p>
 <br/>
 
 > Stack have been used:
